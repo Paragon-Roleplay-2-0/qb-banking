@@ -8,7 +8,7 @@ Config = {
         name = 'Bank',
         sprite = 108,
         color = 2,
-        scale = 0.55
+        scale = 0.8
     },
     locations = {
         vector3(149.05, -1041.3, 29.37),
